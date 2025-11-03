@@ -1,0 +1,63 @@
+[
+  {"model": "core.document", "pk": 1, "fields": {
+    "title": "Data science with Python",
+    "body": "Python and data science techniques such as pandas and scikit-learn enable rapid experimentation and analysis."
+  }},
+  {"model": "core.document", "pk": 2, "fields": {
+    "title": "Environmental policy and climate action",
+    "body": "Environment protection policies require coordinated government efforts and corporate responsibility."
+  }},
+  {"model": "core.document", "pk": 3, "fields": {
+    "title": "Introduction to PostgreSQL full-text search",
+    "body": "PostgreSQL provides tsvector and tsquery for ranking and boolean search with AND, OR, and NOT operators."
+  }},
+  {"model": "core.document", "pk": 4, "fields": {
+    "title": "Trigram similarity for typo tolerant search",
+    "body": "The pg_trgm extension enables similarity and the percent operator for fuzzy matching of misspelled terms."
+  }},
+  {"model": "core.document", "pk": 5, "fields": {
+    "title": "Caching strategies with Redis",
+    "body": "Redis supports caching for frequent queries, lists to store recent queries, and TTL-based invalidation."
+  }},
+  {"model": "core.document", "pk": 6, "fields": {
+    "title": "Network security policies",
+    "body": "Zero trust and least privilege are key policies in enterprise environments."
+  }},
+  {"model": "core.document", "pk": 7, "fields": {
+    "title": "Python for web development",
+    "body": "Django provides a batteries-included framework for building secure, maintainable web apps."
+  }},
+  {"model": "core.document", "pk": 8, "fields": {
+    "title": "Deterministic search results",
+    "body": "Search systems can guarantee deterministic results by avoiding probabilistic models and keeping data in PostgreSQL."
+  }},
+  {"model": "core.document", "pk": 9, "fields": {
+    "title": "Privacy and data governance",
+    "body": "Strong privacy practices require explicit policies and audit controls."
+  }},
+  {"model": "core.document", "pk": 10, "fields": {
+    "title": "Environment and sustainability",
+    "body": "Sustainability initiatives rely on accurate measurements of environmental impact over time."
+  }},
+  {"model": "core.document", "pk": 11, "fields": {
+    "title": "Boolean search examples",
+    "body": "Use AND to require terms, OR to broaden, and NOT to exclude. Parentheses control precedence."
+  }},
+  {"model": "core.document", "pk": 12, "fields": {
+    "title": "PostgreSQL indexes",
+    "body": "GIN indexes accelerate full-text search; trigram indexes accelerate similarity queries."
+  }},
+  {"model": "core.document", "pk": 13, "fields": {
+    "title": "Python for data engineering",
+    "body": "Airflow and pandas support ETL pipelines; psycopg integrates Python with Postgres."
+  }},
+  {"model": "core.document", "pk": 14, "fields": {
+    "title": "Operational excellence",
+    "body": "Health checks, observability, and safe migrations improve reliability."
+  }},
+  {"model": "core.document", "pk": 15, "fields": {
+    "title": "Policies and compliance",
+    "body": "Security policies should not conflict with productivity; balance is essential."
+  }}
+]
+
